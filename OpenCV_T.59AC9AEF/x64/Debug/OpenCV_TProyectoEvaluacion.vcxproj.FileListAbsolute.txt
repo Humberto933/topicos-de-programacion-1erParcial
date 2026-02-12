@@ -1,0 +1,3 @@
+C:\Users\caseh\OneDrive\Escritorio\ISSC\ISSC5\5ProgramacionAvanzada\OpenCV_TProyectoEvaluacion\OpenCV_T.59AC9AEF\x64\Debug\OpenCV_TProyectoEvaluacion.vcxproj.AssemblyReference.cache
+C:\Users\caseh\OneDrive\Escritorio\ISSC\ISSC5\5ProgramacionAvanzada\OpenCV_TProyectoEvaluacion\OpenCV_T.59AC9AEF\x64\Debug\OpenCVTProyectoEvaluacion.MyForm.resources
+C:\Users\caseh\OneDrive\Escritorio\ISSC\ISSC5\5ProgramacionAvanzada\OpenCV_TProyectoEvaluacion\OpenCV_T.59AC9AEF\x64\Debug\OpenCV_TProyectoEvaluacion.vcxproj.GenerateResource.cache

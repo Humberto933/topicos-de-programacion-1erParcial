@@ -1,0 +1,9 @@
+﻿  OpenCV_TProyectoEvaluacion.cpp
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(113,1): warning C4793: 'cv::cuda::GpuMat::GpuMat': function compiled as native:
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(113,1): warning C4793: 	Found an intrinsic not supported in managed code
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(511,1): warning C4793: 'cv::cuda::HostMem::HostMem': function compiled as native:
+C:\opencv\build\include\opencv2\core\cuda.inl.hpp(511,1): warning C4793: 	Found an intrinsic not supported in managed code
+  OpenCV_TProyectoEvaluacion.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  OpenCV_TProyectoEvaluacion.vcxproj -> C:\Users\caseh\OneDrive\Escritorio\ISSC\ISSC5\5ProgramacionAvanzada\OpenCV_TProyectoEvaluacion\x64\Debug\OpenCV_TProyectoEvaluacion.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
